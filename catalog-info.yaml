@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   annotations:
-    'backstage.io/kubernetes-id': minikube
+    'backstage.io/kubernetes-id': hello-minikube
   name: minikube-demo
 spec:
   lifecycle: production
